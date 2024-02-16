@@ -1,17 +1,12 @@
-### Hi there 👋
 
-<!--
-**ThienDuc3112/ThienDuc3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there 👋</h1>
+  
+I'm Duc
 
-Here are some ideas to get you started:
+Currently don't know what to put in this readme.md so it kinda empty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienDuc3112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Here my stats
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThienDuc3112&layout=compact&theme=vision-friendly-dark"></img>
+</div>
